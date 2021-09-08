@@ -3,8 +3,8 @@
 
 Dataset: Fake news
 
-Percobaan klasifikasi menggunakan sklearn.GaussianNB, apakah sebuah berita termasuk berita palsu atau bukan.
-- Skenario 1 : berdasarkan panjang text
+Percobaan klasifikasi menggunakan `sklearn.GaussianNB` , apakah sebuah berita termasuk berita palsu atau bukan.
+- Skenario percobaan mandiri : berdasarkan panjang text
 
 ## Hasil
 ### skenario 1
@@ -18,3 +18,7 @@ Percobaan klasifikasi menggunakan sklearn.GaussianNB, apakah sebuah berita terma
    macro avg       0.33      0.33      0.30        20
 weighted avg       0.36      0.30      0.30        20
 ```
+
+# Referensi
+Singh, et.al. 2020. Performance of bernoulli’s naive bayes classifier in the detection of fake news
+@ https://www.kaggle.com/c/fake-news
