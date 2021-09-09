@@ -5,6 +5,7 @@ Dataset: Fake news
 
 Percobaan klasifikasi menggunakan `sklearn.GaussianNB` , apakah sebuah berita termasuk berita palsu atau bukan.
 - Skenario percobaan mandiri : berdasarkan panjang text
+   - Data - 1000 data latih
 
 ## Hasil
 ### skenario 1
